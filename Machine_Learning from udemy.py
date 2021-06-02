@@ -1481,12 +1481,7 @@ kmeans.cluster_centers_[:, 1]
 # In[1]:
 
 
-def fun1():
-    print("quiz")
-def fun2(var):
-    for i in range(var):
-        fun1()
-fun2(4)
+
 
 
 # In[ ]:
